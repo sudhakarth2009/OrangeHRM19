@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-09T20:21:21 IST" name="Default suite" finished-at="2019-12-09T20:21:50 IST" duration-ms="29065">
+    <groups>
+    </groups>
+    <test started-at="2019-12-09T20:21:21 IST" name="Default test" finished-at="2019-12-09T20:21:50 IST" duration-ms="29065">
+      <class name="Day_003_Locators.TC01_Xpath">
+        <test-method signature="Test210()[pri:0, instance:Day_003_Locators.TC01_Xpath@7c0c77c7]" started-at="2019-12-09T20:21:21 IST" name="Test210" finished-at="2019-12-09T20:21:50 IST" duration-ms="28965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test210 -->
+      </class> <!-- Day_003_Locators.TC01_Xpath -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
